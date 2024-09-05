@@ -91,6 +91,14 @@
     <artifactId>webdrivermanager</artifactId>
     <version>5.7.0</version>
   </dependency>
+  
+  <dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-picocontainer</artifactId>
+    <version>7.0.0</version>
+    <scope>test</scope>
+</dependency>
+
     
   </dependencies>
 
